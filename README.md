@@ -22,7 +22,7 @@ Performance:
 
 Experiments were performed using the glass dataset which is publicly available. Even though this dataset isn't so complex for classification purposes, it does present a frequently recurring problem in production environments namely; imbalanced classes which inhibits the success application of most approaches including deep learning.
 
-**NOTE** Please refer to the demo jupyter notebook for performance.
+**NOTE** Please refer to the demo jupyter notebook for performance. I recommend using f1 score, precision, or recall for analysis. My demo uses accuracy for simplicity.
 
 Future Steps:
 ---
