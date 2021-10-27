@@ -7,6 +7,28 @@ Neural networks including **deep learning** have numerous hyperparameters that a
 
 ![elementary_artmap](https://user-images.githubusercontent.com/76077647/139080600-de59748c-59d1-405d-92cd-bd75f7ed19af.JPG)
 
+Methodology:
+---
+
+Implementation of both GA & FuzzyARTMAP is done in python. Besides the classical GA **operators** including **Selection**, **Crossover**, & **Mutation**, **Elitism** is applied to guarantee that the best indivdual(s) always makes it to the next generation. The elite individual(s) however, are still eligible for the selection process.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76077647/139085612-c0e5ec32-bb48-4b78-8a98-848ee2d65f50.JPG" />
+</p>
+
+
+Performance:
+---
+
+Experiments were performed using the glass dataset which is publicly available. Even though this dataset isn't so complex for classification purposes, it does present a frequently recurring problem in production environments namely; imbalanced classes which inhibits the success application of most approaches including deep learning.
+
+**NOTE** Please refer to the demo jupyter notebook for performance.
+
+Future Steps:
+---
+1. Apply Niching & Sharing.
+2. Apply both GA & Strongly Typed Genetic Programming (GP) to evolve both network parameters & part of the functonality of the network respectively.
+
 References:
 ---
 1. "Conscious Minds, Resonant Brain: How Each Brain Makes A Mind"  - Stephen Grossberg
