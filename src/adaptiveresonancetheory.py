@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 
+__author__  = "Ed Mwanza, AI Researcher - Comp.Sci"
+__project__ = "Meta Learning/Learning how to learn with Adaptive Resonance Theory (ART)"
+__contact__ = "emddb@mst.edu"
+__credits__ = "https://github.com/AIOpenLab/art"
+
 from functools import partial
 import numpy as np
 
