@@ -33,3 +33,4 @@ References:
 ---
 1. "Conscious Minds, Resonant Brain: How Each Brain Makes A Mind"  - Stephen Grossberg
 2. "Evolutionary Computation for the Automated Design of Category Functions for Fuzzy ART: An Initial Exploration" - Wunsch, Islam & Tauritz
+3. https://github.com/AIOpenLab/art
