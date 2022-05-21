@@ -8,7 +8,7 @@ Created on Wed Aug  5 08:08:26 2020
 __author__  = "Ed Mwanza, AI Researcher - Comp.Sci"
 __project__ = "Meta Learning/Learning how to learn with Adaptive Resonance Theory (ART)"
 __contact__ = "emddb@mst.edu"
-__credits__ = "code contributors"
+__credits__ = "Eyal Wirsansky"
 
 
 from deap import tools
