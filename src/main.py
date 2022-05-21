@@ -2,6 +2,7 @@
 
 __author__  = "Ed Mwanza, AI Researcher - Comp.Sci"
 __project__ = "Neuro-evolution of ART using Genetic Algorithms"
+__credits__ = "Eyal Wirsansky"
 
 from deap import base
 from deap import creator
